@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b1ece02880ddde682bc7d4e9",
+  "owner": "bmayjvtaa",
+  "repo": "page-21c3b4fd3ed3a0dec1a269f5",
+  "title": "闪电猫(SPEEDCAT)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "21c3b4fd3ed3a0dec1a269f5",
+      "a": "闪电猫(SPEEDCAT)",
+      "b": "",
+      "entity": "闪电猫(SPEEDCAT)",
+      "brand": "闪电猫(SPEEDCAT)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "494194abac7faaf043010f17b51505dec4e19a2ee8c89fa15390107f58e78cb5",
+      "content": {
+        "keyword1": "闪电猫(SPEEDCAT)",
+        "keyword2": "",
+        "primary_entity": "闪电猫(SPEEDCAT)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "闪电猫(SPEEDCAT)提供机场订阅与VPN网络加速服务，支持多端客户端下载、流媒体解锁与游戏加速，可在官网对比套餐并获取官方下载指引。",
+          "AI_DESCRIPTION": "闪电猫(SPEEDCAT)提供机场订阅与VPN网络加速服务，支持多端客户端下载、流媒体解锁与游戏加速，可在官网对比套餐并获取官方下载指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#061525;color:#dbeafe;font-size:16px;line-height:1.75}a{color:#22d3ee;text-decoration:none}header{background:#082033;border-bottom:1px solid #155e75;padding:12px 0}nav{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center}.brand{font-weight:700;color:#f8fafc;margin-right:8px}.wrap{width:100%;max-width:42rem;margin:0 auto;padding:0 16px}main{padding:20px 0 32px}h1{font-size:1.7rem;line-height:1.3;color:#ffffff;margin:8px 0 12px;padding-left:12px;border-left:4px solid #22d3ee}h2{font-size:1.32rem;color:#67e8f9;margin:32px 0 12px}h3{font-size:1.08rem;color:#a5f3fc;margin:18px 0 8px}p,li{color:#dbeafe}lead{display:block;color:#9ec9dc;margin-bottom:16px}.muted{color:#8ab4c8}.plan{background:#0c2238;border:1px solid #155e75;border-radius:10px;padding:16px;margin:0 0 14px}.plan.featured{border-color:#22d3ee;background:#0e2a46}.badge{display:inline-block;background:#22d3ee;color:#082f49;font-size:12px;font-weight:700;padding:2px 8px;border-radius:4px;margin-left:8px}.price{font-size:1.35rem;font-weight:700;color:#22d3ee;margin:6px 0}.annual{color:#9ec9dc;font-size:14px}.features{margin:8px 0 0;padding-left:1.15rem}.step{background:#0b1e32;border-left:3px solid #22d3ee;padding:12px 14px;margin:12px 0}details{background:#0b1e32;border:1px solid #155e75;border-radius:8px;padding:10px 12px;margin:0 0 10px}summary{font-weight:650;color:#67e8f9}details p{margin:8px 0 0}.ad{margin:24px 0;padding:14px;text-align:center;border:1px dashed #155e75;background:#0a1c2e;color:#9ec9dc}.links{display:flex;flex-wrap:wrap;gap:8px 14px}footer{background:#07141f;border-top:1px solid #155e75;padding:20px 0 28px;color:#8ab4c8;font-size:14px}footer nav{margin:8px 0 14px}</style><header><div class=\"wrap\"><nav><span class=\"brand\">闪电猫(SPEEDCAT) 官网</span><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">指南</a><a href=\"#download\">下载</a><a href=\"#faq\">问答</a></nav></div></header><main><div class=\"wrap\"><h1>闪电猫(SPEEDCAT)</h1><p>闪电猫(SPEEDCAT)官方网站提供机场订阅、VPN梯子与网络加速服务说明，帮助你按需选择套餐、导入订阅并完成客户端下载。</p><section id=\"intro\"><h2>品牌简介</h2><p>闪电猫(SPEEDCAT)面向需要稳定跨境访问的个人与小团队，以机场订阅为核心，搭配常见加速器客户端。服务侧重点是线路可用性、多设备同时在线和可预期的流量配额，而不是堆砌无法核验的宣传数字。</p><p>SPEEDCAT 将节点分为普通线路与更高优先级的专线/高带宽资源。基础需求可用常规节点完成网页与资料访问；对延迟和流媒体解锁更敏感的用户，可在旗舰版与团队版中使用更完整的节点池。订阅可在主流客户端中导入，便于在电脑、手机和平板之间切换。</p><p class=\"muted\">本页集中说明套餐差异、使用场景、操作步骤与官方下载路径，便于对照后再决定是否开通。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为当前固定套餐。价格按自然月计费，年付为 12 个月一次性结算。设备数指同一订阅可同时在线的终端上限，流量按自然月重置。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版 <span class=\"badge\">重点推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article><p>若主要使用网页检索与少量视频，基础版通常足够。需要多平台原生流媒体、游戏低延迟或工单优先响应时，旗舰版更合适。多人共享、分部门路由或长期高流量，再考虑团队版。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>学习资料与远程协作</h3><p>访问海外文档、代码仓库、学术检索和在线会议时，可把系统代理或浏览器规则指向 SPEEDCAT 订阅。基础版覆盖日常办公流量；会议密集或文件同步较多时，建议预留旗舰版额度，避免高峰拥塞。</p><h3>流媒体观看</h3><p>基础版提供基础流媒体解锁，适合偶尔点播。旗舰版与团队版强调全节点原生解锁，减少地区库切换失败。观看前请在客户端选择对应地区节点，并确认 DNS 与分流规则未绕过代理。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与更新下载。团队版额外提供 VIP 高带宽节点，便于多人同时更新客户端或直播推流。请将游戏进程加入代理列表，避免只有浏览器走加速。</p><h3>家庭与小团队共用</h3><p>设备上限分别为 3、5、20 台。家庭共用可把电视盒子、手机和电脑计入同一订阅；工作室则应按在线人数选择团队版，并结合定制路由把办公网段与个人设备分开。</p></section><section id=\"guide\"><h2>操作说明</h2><p>按纵向步骤完成开通与接入。全程在官网账户内操作，不要向第三方泄露订阅链接。</p><div class=\"step\"><h3>第一步：打开官网并对照套餐</h3><p>进入闪电猫(SPEEDCAT)官方网站，阅读流量、设备数与解锁范围。确认使用地区、终端数量和是否需要游戏专线后再下单，避免中途频繁改配。</p></div><div class=\"step\"><h3>第二步：完成订阅并复制链接</h3><p>支付成功后，在用户中心生成机场订阅地址。建议开启订阅访问令牌或定期重置。将该链接保存在密码管理器，而不是发到公开聊天。</p></div><div class=\"step\"><h3>第三步：下载并安装客户端</h3><p>根据系统选择 Clash 系、系统代理客户端或移动端 App。从官网标注的官方下载入口获取安装包，安装后允许 VPN/网络扩展权限。</p></div><div class=\"step\"><h3>第四步：导入订阅并更新节点</h3><p>在客户端选择“从 URL 导入/订阅”，粘贴 SPEEDCAT 订阅。首次更新节点列表，开启自动更新。按规则分流：国内直连、海外代理，减少无效消耗。</p></div><div class=\"step\"><h3>第五步：测速选点并检查配额</h3><p>用延迟测试筛选节点，流媒体选标注解锁的线路，游戏优先 IPLC。在官网查看剩余流量与在线设备。接近配额时减少大文件或升级套餐。</p></div></section><section id=\"download\"><h2>官方客户端下载</h2><p>闪电猫(SPEEDCAT)本身以机场订阅为主，客户端下载需匹配操作系统。Windows 与 macOS 可使用图形化 Clash/Meta 内核客户端；Android 使用支持订阅的加速器；iOS 使用商店内可导入订阅的工具；Linux 可用命令行或桌面端。</p><h3>下载与导入注意</h3><p>请通过官网账户中的官方下载说明获取安装包校验信息，避免来路不明的修改版。导入后只启用一条订阅，关闭来源不明的远程规则。若节点全红，先更新订阅再更换端口或协议。</p><p><a href=\"#plans\">返回套餐对比</a> · <a href=\"#guide\">查看操作步骤</a> · <a href=\"#faq\">阅读常见问题</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>闪电猫(SPEEDCAT)和普通 VPN 有什么区别？</summary><p>SPEEDCAT 以机场订阅分发节点，用户可在自选客户端里切换线路、分流和规则。传统单一 App VPN 往往不能自由换节点或导出配置。若你需要多端同步和规则自定义，订阅模式更合适。</p></details><details><summary>如何进行官网下载并保证客户端安全？</summary><p>先登录官方网站用户中心，只使用页面提供的客户端下载说明与校验方式。不要在论坛或网盘获取“破解加速器”。安装后检查是否只有一条 SPEEDCAT 订阅，并关闭来历不明的远程配置。</p></details><details><summary>三个套餐该怎么选？流量不够怎么办？</summary><p>100GB/3 设备选基础版；300GB、5 设备、原生流媒体和游戏专线选旗舰版；千 GB 级与 20 设备或需要定制路由选团队版。流量按月重置，用尽后可升级或等待下月，不建议多人共用低配额套餐。</p></details><details><summary>支持哪些流媒体和游戏加速？</summary><p>基础版解锁基础流媒体；旗舰版与团队版提供全节点原生流媒体解锁。游戏方面，旗舰版含 IPLC 专线优化，团队版另有 VIP 高带宽节点。实际效果仍受本地宽带、节点负载和客户端分流影响，请先测延迟再固定节点。</p></details><details><summary>多台设备掉线或提示超过上限怎么处理？</summary><p>同时在线超过套餐设备数会被限制。请在客户端退出不用的会话，关闭系统休眠唤醒后残留的 VPN。团队使用建议分配固定设备，并把不常用终端改为手动连接。</p></details><details><summary>工单和客户经理如何使用？</summary><p>基础版走常规工单。旗舰版提供 7x24 优先工单，适合线路故障或流媒体异常时快速排查。团队版配备专属客户经理，可沟通定制路由和企业侧接入，请在官网工单中注明套餐与订阅编号。</p></details></section><div class=\"ad\" id=\"ads\">合作展示位：节点与客户端适配咨询请通过官网工单联系，不在第三方私下交易订阅。</div></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>网站地图</p><nav aria-label=\"网站地图\"><a href=\"#\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav><p>友情链接</p><div class=\"links\"><a href=\"#\">加速器使用手册</a><a href=\"#\">订阅导入指引</a><a href=\"#\">分流规则说明</a><a href=\"#\">网络诊断备忘</a></div><p class=\"muted\">闪电猫(SPEEDCAT)官方网站 · 机场订阅与 VPN 网络加速说明页 · 仅提供公开套餐与下载指引</p></div></footer>",
+          "hash": "12483e0ac871e799ead2375c16f231a37a88a11e4391e687e7b14827282cee8e",
+          "seo": {
+            "title": "闪电猫(SPEEDCAT)官网 | VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "闪电猫,SPEEDCAT,闪电猫VPN,闪电猫机场,VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "闪电猫(SPEEDCAT)提供机场订阅与VPN网络加速服务，支持多端客户端下载、流媒体解锁与游戏加速，可在官网对比套餐并获取官方下载指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "woodshero.cn",
+    "host": "p-e2a49bf238.woodshero.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "woodshero.cn",
+      "url": "https://woodshero.cn/",
+      "label": "彩虹云",
+      "apex": "woodshero.cn",
+      "kind": null,
+      "identity": "kqqdgcnucp/page-80ad279d79b89013a3e707f4"
+    },
+    {
+      "host": "kykcyvu.cn",
+      "url": "https://kykcyvu.cn/",
+      "label": "闪电猫(SPEEDCAT)",
+      "apex": "kykcyvu.cn",
+      "kind": null,
+      "identity": "tkrqemkkn/page-30f7476cd00efb8fa33424d4"
+    },
+    {
+      "host": "rbmpblq.cn",
+      "url": "https://rbmpblq.cn/",
+      "label": "闪电猫(SPEEDCAT)",
+      "apex": "rbmpblq.cn",
+      "kind": null,
+      "identity": "enmxfjqtkw/page-aff5b3876fc3503e9c541cd9"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e73b609cae748d10d48e96ea47e1a6d66b271c6b5e19f10d05cb5ed1176669ec",
+    "sitemap.xml": "cfa1ff1ceff134158422984005e9a35baec06abdc81157a679d4c6068f60c335",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "95225d223d795bf755245dbb73501bcf282177e11bc05295e8a9e2ae5b9538f6",
+    "robots.txt": "41e70e1da9fee00d7459411f3f8538058e15679328f5619cd73c7a9e78a054cc",
+    "1836ddd4e149f14962a7da5d0f3253c7.txt": "9bfdb6d03ae1355929c6e541dbfd893cd206c017e9c7d13ff83ae8d30d171abb"
+  },
+  "revision": "5f257f252faf95534d3413806af718d8b3a6fc2454275cd70ad689c746b7195d"
+}
